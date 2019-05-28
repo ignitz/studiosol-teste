@@ -1,0 +1,15 @@
+{
+  "name": "studiosol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuri Niitsuma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "figlet": "^1.2.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "momentjs": "^2.0.0",
+    "prompts": "^2.1.0"
+  }
+}
